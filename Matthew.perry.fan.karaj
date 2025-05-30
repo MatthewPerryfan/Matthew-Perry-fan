@@ -1,0 +1,10 @@
+index.html
+<section style="margin-top: 60px; text-align: center;">
+  <h2 style="color: #ffcc00; font-size: 2rem; margin-bottom: 20px;">گالری عکس‌های متیو پری</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Matthew_Perry_2013.jpg/640px-Matthew_Perry_2013.jpg" alt="Matthew Perry 2013" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Matthew_Perry_2009.jpg/640px-Matthew_Perry_2009.jpg" alt="Matthew Perry 2009" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Matthew_Perry_2010.jpg/640px-Matthew_Perry_2010.jpg" alt="Matthew Perry 2010" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Matthew_Perry_Friends.jpg" alt="Matthew Perry Friends" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </div>
+</section>
